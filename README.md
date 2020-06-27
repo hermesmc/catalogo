@@ -22,4 +22,20 @@ Efetuar o cadastro de uma operação no catálogo corporativo passo a passo:
     - Sigla: sigla do sistema. Ex. DJO
     - Clique em importar book.
 - Caso ocorra algum erro, este deverá ser ajustado;
-- Se der tudo certo uma página será aberta com vários ícones na parte superior, entre eles um representando "Validação". Escolhe este;
+- Se der tudo certo uma página será aberta com vários ícones na parte superior, entre eles um representando "Validação". Uma prnacheta com um "V" verde dentro. Escolha este;
+- Na página que será aberta selecione a opção de validação novamente;
+- Na área de "Dados do contrato", selecione "Aplicar nomes sugeridos válidos";
+- O catálogo vai validar cada uma das abreviaturas substituindo por nomes válidos. as abreviaturas não válidas não serão substituídas;
+- Os campos que ficarem com X vermelho deverão ser corrigidos. Quando tudo estiver verdinho, clique em Salvar e depois em voltar;
+- Na coluna da direita selecione a aba "ventos";
+- Clique na ampulheta(detalhar evento da operação);
+- Na parte superior esquerda está escrito: Evento de transação da operação, selecione a opção de edição(papel com um lápis);
+- Na coluna da direita, corra a barra para baixo até aparecer Provedor mainframe CICS;
+- Em container de requisição coloque o nome do programa que efetuará a operação seguido de RQSC. Ex.: DJOSP243-RQSC;
+- Em container de resposta coloque o nome do programa que efetuará a operação seguido de RPST. Ex.: DJOSP243-RPST;
+- Em módulo, somente o nome do programa;
+- Em transação roteamento, coloque a sigla do sistema seguido de $. Ex.: DJO$;
+- Salve e retorne;
+- Na coluna da esquerda, na parte do meio, tem uma opção chamada ações. Selecione o ícone azul com a descrição: publicar operação no ambiente de desenvolvimento;
+- Inclua uma motivação/observação e clique em "transferir desenvolvimento";
+- Se tudo der certo a operação será publicada.
