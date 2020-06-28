@@ -34,8 +34,8 @@ Efetuar o cadastro de uma operação no catálogo corporativo passo a passo:
 - Em container de requisição coloque o nome do programa que efetuará a operação seguido de RQSC. Ex.: DJOSP243-RQSC;
 - Em container de resposta coloque o nome do programa que efetuará a operação seguido de RPST. Ex.: DJOSP243-RPST;
 - Em módulo, somente o nome do programa;
-- Em transação roteamento, coloque a sigla do sistema seguido de $. Ex.: DJO$;
+- Em transação roteamento, coloque a sigla do sistema seguido de "$". Ex.: DJO$;
 - Salve e retorne;
 - Na coluna da esquerda, na parte do meio, tem uma opção chamada ações. Selecione o ícone azul com a descrição: publicar operação no ambiente de desenvolvimento;
 - Inclua uma motivação/observação e clique em "transferir desenvolvimento";
-- Se tudo der certo a operação será publicada.
+- Se tudo der certo, a operação será publicada.
