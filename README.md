@@ -10,7 +10,7 @@ Veja no passo a passo abaixo a sequência básica:
 - Mais ou menos no meio da pagina, na parte superior, selecione a opção tecnologia(dentro do icone com 9 quadradinhos);
 - Na coluna da esquerda, tem um ícone em forma de chave inglesa. Aponte o ponteiro do mouse sobre ela;
 - Localize a opção "Catálogo" e selecione a opção "Corporativo de TI";
-<br>
+
 ### Cadastrando a nova operação
 - Na página de Catálogo Corporativo de TI, na coluna da esquerda em "Acesso rápido", selecione "Criar nova operação - serviço genérico";
 - Localize e selecione a opção de "Adicionar operação";
