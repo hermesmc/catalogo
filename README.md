@@ -1,6 +1,7 @@
 # Cadastramento de operação no Catálogo
 
 Como efetuar o cadastro de uma operação no catálogo corporativo?
+<br>
 Veja no passo a passo abaixo a sequência básica:
 
 <h3>Acessando o Catálogo Corporativo</h3>
