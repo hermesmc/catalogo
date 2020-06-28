@@ -27,7 +27,7 @@ Veja no passo a passo abaixo a sequência básica:
     - Sigla: sigla do sistema. Ex. DJO
     - Clique em importar book.
 - Caso ocorra algum erro, este deverá ser ajustado;
-- Se der tudo certo uma página será aberta com vários ícones na parte superior, entre eles um representando "Validação". Uma prnacheta com um "V" verde dentro. Escolha este;
+- Se der tudo certo uma página será aberta com vários ícones na parte superior, entre eles um representando "Validação". Uma prancheta com um "V" verde dentro. Escolha este;
 - Na página que será aberta selecione a opção de validação novamente;
 - Na área de "Dados do contrato", selecione "Aplicar nomes sugeridos válidos";
 - O catálogo vai validar cada uma das abreviaturas substituindo por nomes válidos. as abreviaturas não válidas não serão substituídas;
