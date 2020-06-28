@@ -1,12 +1,16 @@
 # Cadastramento de operação no Catálogo
 
-Efetuar o cadastro de uma operação no catálogo corporativo passo a passo:
+Como efetuar o cadastro de uma operação no catálogo corporativo?
+Veja no passo a passo abaixo a sequência básica:
 
+<h3>Acessando o Catálogo Corporativo</h3>
 - Efetue o login na intranet;
 - Selecione a opção Catálogo no canto superior esquerdo;
 - Mais ou menos no meio da pagina, na parte superior, selecione a opção tecnologia(dentro do icone com 9 quadradinhos);
 - Na coluna da esquerda, tem um ícone em forma de chave inglesa. Aponte o ponteiro do mouse sobre ela;
 - Localize a opção "Catálogo" e selecione a opção "Corporativo de TI";
+<br>
+<h3>Cadastrando a nova operação</h3>
 - Na página de Catálogo Corporativo de TI, na coluna da esquerda em "Acesso rápido", selecione "Criar nova operação - serviço genérico";
 - Localize e selecione a opção de "Adicionar operação";
 - Abrirá uma pagina para cadastro de:
