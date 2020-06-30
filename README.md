@@ -1,5 +1,5 @@
 <h1>Índice</h1>
-<h1 style="color:yellow";><a href="#C1">1 - Acessando o Catálogo Corporativo</a></h1><br>
+<a href="#C1">1 - Acessando o Catálogo Corporativo</a><br>
 <a href="#C2">2 - Verificando erro na execução de uma operação</a> <br>
 <a href="#C3">3 - Cadastramento de operação no Catálogo</a> <br>
 <a href="#C4">4 - Cadastramento de mensagens na mensageria</a> <br>
