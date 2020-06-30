@@ -1,7 +1,7 @@
 <a href="#C1">1 - Verificando erro na execução de uma operação</a> <br>
 <a href="#C2">2 - Cadastramento de operação no Catálogo</a> <br>
 
-<h3> <a name="C1"> 1 - Verificando erro na execução de uma operação</ a></ h3>
+<h1> <a name="C1"> 1 - Verificando erro na execução de uma operação</ a></h1><br>
 
 Se sua operação foi feita corretamente com mensageria, poderá acessar o erro pelo catálogo.
 ### Acessando o Catálogo Corporativo
@@ -21,7 +21,7 @@ Se sua operação foi feita corretamente com mensageria, poderá acessar o erro 
     - ambiente(muito importante selecionar corretamente);
 - Clique no ícone com uma apulheta no meio de um quadrado para o sistema listar os erros.
 
-<h3> <a name="C2"> 2 - Cadastramento de operação no Catálogo</a></h3>
+<h1> <a name="C2"> 2 - Cadastramento de operação no Catálogo</a></h1><br>
 
 Como efetuar o cadastro de uma operação no catálogo corporativo?
 <br>
