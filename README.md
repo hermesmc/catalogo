@@ -88,7 +88,7 @@ Se nenhuma mensagem lhe atenda, cadastre uma nova:
 - Clique em "Nova mensagem", na parte superior da página;
 - Preencha corretamente os campos solicitados. Atenção nos campos "Tipo de mensagem" e "Categoria";
 - Clique em "Novo texto";
-    - Em "Texto de dstaque", preencha com o texto que deseja que apareça quando acontecer o erro(Inicie com letra maiúscula e não esqueça do ponto final).
+    - Em "Texto de destaque", preencha com o texto que deseja que apareça quando acontecer o erro(Inicie com letra maiúscula e não esqueça do ponto final).
     - Em "Texto complementar", o texto com instruções para que o usuário possa corrigir o problema;
     - Em "Canais" você precisa saber quem vai acessar o programa para selecionar os canais corretamente;
     - Salve a mensagem;
