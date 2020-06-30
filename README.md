@@ -1,3 +1,23 @@
+# Verificando erro na execução de uma operação
+
+Se sua operação foi feita corretamente com mensageria, poderá acessar o erro pelo catálogo.
+### Acessando o Catálogo Corporativo
+- Efetue o login na intranet;
+- Selecione a opção Catálogo no canto superior esquerdo;
+- Mais ou menos no meio da pagina, na parte superior, selecione a opção tecnologia(dentro do icone com 9 quadradinhos);
+- Na coluna da esquerda, tem um ícone em forma de chave inglesa. Aponte o ponteiro do mouse sobre ela;
+- Localize a opção "Catálogo" e selecione a opção "Corporativo de TI";
+
+### Encontrando o erro na mensageria
+- Dentro da página do Catálogo, no menu superior, selecione "Mensageria";
+- Listar ocorrências por módulo;
+- Na página "Listar ocorrências por módulo mainframe", preencha:
+    - o nome do módulo;
+    - a data da ocorrência do erro;
+    - hora inicial e hora final;
+    - ambiente(muito importante selecionar corretamente);
+- Clique no ícone com uma apulheta no meio de um quadrado para o sistema listar os erros.
+
 # Cadastramento de operação no Catálogo
 
 Como efetuar o cadastro de uma operação no catálogo corporativo?
