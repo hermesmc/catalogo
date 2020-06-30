@@ -19,6 +19,7 @@
 Se sua operação foi feita corretamente com mensageria, poderá acessar o erro pelo catálogo.
 
 ### Encontrando o erro na mensageria
+- Acesse o catálogo conforme item 1;
 - Dentro da página do Catálogo, no menu superior, selecione "Mensageria";
 - Listar ocorrências por módulo;
 - Na página "Listar ocorrências por módulo mainframe", preencha:
@@ -35,6 +36,7 @@ Como efetuar o cadastro de uma operação no catálogo corporativo?
 Veja no passo a passo abaixo a sequência básica:
 
 ### Cadastrando a nova operação
+- Acesse o catálogo conforme item 1;
 - Na página de Catálogo Corporativo de TI, na coluna da esquerda em "Acesso rápido", selecione "Criar nova operação - serviço genérico";
 - Localize e selecione a opção de "Adicionar operação";
 - Abrirá uma pagina para cadastro de:
@@ -69,3 +71,34 @@ Veja no passo a passo abaixo a sequência básica:
 - Se tudo der certo, a operação será publicada.
 
 <h2> <a name="C4"> 4 - Cadastramento de mensagens na mensageria</ a></h2>
+
+Antes de efetuar o cadastro de uma nova mensagem, verifique se já não existe alguma mensagem já cadastrada, que atenda suas necessidades
+- Acesse o catálogo conforme item 1, mas no lugar de entrar no "Corporativo de TI", acesse "Mensagens";
+- Em mensagens selecione "Busca avançada";
+- No campo "Nome" coloque o termo que deseja pesqusar e em "Sigla", a sigla do sistema. Efetue a pesquisa;
+- Caso encontre uma mensagem que lhe atenda:
+    - Clique no código da mensagem;
+    - Clique em "Novo módulo";
+    - Em "Módulo" digite o nome do módulo que vai utilizar a mensagem;
+    - Em "Código", o código de erro correspondente no módulo;
+    - Clique em "Salvar operações".
+    
+Se nenhuma mensagem lhe atenda, cadastre uma nova:
+- Volte para o "Catálogo de mensgaens";
+- Clique em "Nova mensagem", na parte superior da página;
+- Preencha corretamente os campos solicitados. Atenção nos campos "Tipo de mensagem" e "Categoria";
+- Clique em "Novo texto";
+    - Em "Texto de dstaque", preencha com o texto que deseja que apareça quando acontecer o erro(Inicie com letra maiúscula e não esqueça do ponto final).
+    - Em "Texto complementar", o texto com instruções para que o usuário possa corrigir o problema;
+    - Em "Canais" você precisa saber quem vai acessar o programa para selecionar os canais corretamente;
+    - Salve a mensagem;
+- Clique em "Novo módulo";
+- Em "Módulo" digite o nome do módulo que vai utilizar a mensagem;
+- Em "Código", o código de erro correspondente no módulo;
+- Clique em "Solicitar aprovação".
+- Preencha o formulário que será aberto e solicite a aprovação;
+- No dia seguinte entre na mensageria e em Módulos;
+- Verifique o ststus da mensagem pra saber se foi aprovada. Se não for deverá haver uma série de ajustes ppara que seja aprovada.
+
+
+
