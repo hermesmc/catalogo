@@ -6,6 +6,7 @@
 
 
 <h2> <a name="C1"> 1 - Acessando o Catálogo Corporativo</ a></h2>
+
 - Efetue o login na intranet;
 - Selecione a opção Catálogo no canto superior esquerdo;
 - Mais ou menos no meio da pagina, na parte superior, selecione a opção tecnologia(dentro do icone com 9 quadradinhos);
