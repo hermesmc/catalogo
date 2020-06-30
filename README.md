@@ -1,4 +1,4 @@
-<h1>Índice</h1><br>
+<h1>Índice</h1>
 <a href="#C1">1 - Verificando erro na execução de uma operação</a> <br>
 <a href="#C2">2 - Cadastramento de operação no Catálogo</a> <br>
 
