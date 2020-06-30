@@ -1,6 +1,7 @@
 <h1>Índice</h1>
 <a href="#C1">1 - Verificando erro na execução de uma operação</a> <br>
 <a href="#C2">2 - Cadastramento de operação no Catálogo</a> <br>
+<a href="#C3">3 - Cadastramento de mensagens na mensageria</a> <br>
 
 <h2> <a name="C1"> 1 - Verificando erro na execução de uma operação</ a></h2>
 
@@ -68,3 +69,5 @@ Veja no passo a passo abaixo a sequência básica:
 - Na coluna da esquerda, na parte do meio, tem uma opção chamada ações. Selecione o ícone azul com a descrição: publicar operação no ambiente de desenvolvimento;
 - Inclua uma motivação/observação e clique em "transferir desenvolvimento";
 - Se tudo der certo, a operação será publicada.
+
+<h2> <a name="C3"> 3 - Cadastramento de mensagens na mensageria</ a></h2>
