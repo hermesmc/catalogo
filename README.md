@@ -22,7 +22,7 @@ Se sua operação foi feita corretamente com mensageria, poderá acessar o erro 
     - ambiente(muito importante selecionar corretamente);
 - Clique no ícone com uma apulheta no meio de um quadrado para o sistema listar os erros.
 
-<h2> <a name="C2"> 2 - Cadastramento de operação no Catálogo</a></h2><br>
+<h2> <a name="C2"> 2 - Cadastramento de operação no Catálogo</a></h2>
 
 Como efetuar o cadastro de uma operação no catálogo corporativo?
 <br>
