@@ -2,7 +2,7 @@
 <a href="#C1">1 - Verificando erro na execução de uma operação</a> <br>
 <a href="#C2">2 - Cadastramento de operação no Catálogo</a> <br>
 
-<h2> <a name="C1"> 1 - Verificando erro na execução de uma operação</ a></h2><br>
+<h2> <a name="C1"> 1 - Verificando erro na execução de uma operação</ a></h2>
 
 Se sua operação foi feita corretamente com mensageria, poderá acessar o erro pelo catálogo.
 ### Acessando o Catálogo Corporativo
