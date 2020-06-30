@@ -1,17 +1,21 @@
 <h1>Índice</h1>
-<a href="#C1">1 - Verificando erro na execução de uma operação</a> <br>
-<a href="#C2">2 - Cadastramento de operação no Catálogo</a> <br>
-<a href="#C3">3 - Cadastramento de mensagens na mensageria</a> <br>
+<a href="#C1">1 - Acessando o Catálogo Corporativo</a> <br>
+<a href="#C2">2 - Verificando erro na execução de uma operação</a> <br>
+<a href="#C3">3 - Cadastramento de operação no Catálogo</a> <br>
+<a href="#C4">4 - Cadastramento de mensagens na mensageria</a> <br>
 
-<h2> <a name="C1"> 1 - Verificando erro na execução de uma operação</ a></h2>
 
-Se sua operação foi feita corretamente com mensageria, poderá acessar o erro pelo catálogo.
-### Acessando o Catálogo Corporativo
+<h2> <a name="C1"> 1 - Acessando o Catálogo Corporativo</ a></h2>
 - Efetue o login na intranet;
 - Selecione a opção Catálogo no canto superior esquerdo;
 - Mais ou menos no meio da pagina, na parte superior, selecione a opção tecnologia(dentro do icone com 9 quadradinhos);
 - Na coluna da esquerda, tem um ícone em forma de chave inglesa. Aponte o ponteiro do mouse sobre ela;
 - Localize a opção "Catálogo" e selecione a opção "Corporativo de TI";
+
+
+<h2> <a name="C2"> 2 - Verificando erro na execução de uma operação</ a></h2>
+
+Se sua operação foi feita corretamente com mensageria, poderá acessar o erro pelo catálogo.
 
 ### Encontrando o erro na mensageria
 - Dentro da página do Catálogo, no menu superior, selecione "Mensageria";
@@ -23,7 +27,7 @@ Se sua operação foi feita corretamente com mensageria, poderá acessar o erro 
     - ambiente(muito importante selecionar corretamente);
 - Clique no ícone com uma apulheta no meio de um quadrado para o sistema listar os erros.
 
-<h2> <a name="C2"> 2 - Cadastramento de operação no Catálogo</a></h2>
+<h2> <a name="C3"> 3 - Cadastramento de operação no Catálogo</a></h2>
 
 Como efetuar o cadastro de uma operação no catálogo corporativo?
 <br>
@@ -70,4 +74,4 @@ Veja no passo a passo abaixo a sequência básica:
 - Inclua uma motivação/observação e clique em "transferir desenvolvimento";
 - Se tudo der certo, a operação será publicada.
 
-<h2> <a name="C3"> 3 - Cadastramento de mensagens na mensageria</ a></h2>
+<h2> <a name="C4"> 4 - Cadastramento de mensagens na mensageria</ a></h2>
