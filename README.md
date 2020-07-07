@@ -100,5 +100,20 @@ Se nenhuma mensagem lhe atenda, cadastre uma nova:
 - No dia seguinte entre na mensageria e em Módulos;
 - Verifique o ststus da mensagem pra saber se foi aprovada. Se não for deverá haver uma série de ajustes ppara que seja aprovada.
 
+#Utilizando variável monitorada na mensagem.
+
+Variáveis monitoradas são aquelas que são carregadas dentro do programa com os seguntes nomes:
+- MSG1A-NM-VRV-MON: Nome ou descrição do valor que será monitorado
+- MSG1A-VL-VRV-MON: Valor que deverá ser apresentado na monitoração, conforme descrição 
+
+Para acrescentar o valor de variáveis monitoradas na mensageria:
+- Coloque um nome fácil para identificar, por exemplo: DSC-ERRO
+- Coloque o valor que quer devolver na mensagem, por exemplo: texto do erro retornado por um programa que foi chamado.
+
+No cadastro da mensagem na mensageria, quando chegar no item Clique em "Novo Texto":
+- Em texto em destaque, inclua a variavel que terá seu conteúdo apresentado seguindo este padrão: ${DCR-ERRO:30} o 30 é a quantidade máxima de caracteres que serão exibidos;
+- O restante segue normalmente.
+
+
 
 
