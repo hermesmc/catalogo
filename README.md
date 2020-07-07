@@ -100,7 +100,7 @@ Se nenhuma mensagem lhe atenda, cadastre uma nova:
 - No dia seguinte entre na mensageria e em Módulos;
 - Verifique o ststus da mensagem pra saber se foi aprovada. Se não for deverá haver uma série de ajustes ppara que seja aprovada.
 
-#Utilizando variável monitorada na mensagem.
+<h3>Utilizando variável monitorada na mensagem.</h3>
 
 Variáveis monitoradas são aquelas que são carregadas dentro do programa com os seguntes nomes:
 - MSG1A-NM-VRV-MON: Nome ou descrição do valor que será monitorado
