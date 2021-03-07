@@ -66,6 +66,9 @@ Veja no passo a passo abaixo a sequência básica:
 - Em módulo, somente o nome do programa;
 - Em transação roteamento, coloque a sigla do sistema seguido de "$". Ex.: DJO$;
 - Salve e retorne;
+- Ainda na coluna da direita selecione a aba "Segurança em API na plataforma";
+- Em "Possui restrição de acesso" selecione SIM;
+- Retorne;
 - Na coluna da esquerda, na parte do meio, tem uma opção chamada ações. Selecione o ícone azul com a descrição: publicar operação no ambiente de desenvolvimento;
 - Inclua uma motivação/observação e clique em "transferir desenvolvimento";
 - Se tudo der certo, a operação será publicada.
