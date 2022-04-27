@@ -3,6 +3,7 @@
 <a href="#C2">2 - Verificando erro na execução de uma operação</a> <br>
 <a href="#C3">3 - Cadastramento de operação no Catálogo</a> <br>
 <a href="#C4">4 - Cadastramento de mensagens na mensageria</a> <br>
+<a href="#C5">5 - Erro -805 em homologação.</a> <br>
 
 
 <h2> <a name="C1"> 1 - Acessando o Catálogo Corporativo</ a></h2>
@@ -117,6 +118,9 @@ No cadastro da mensagem na mensageria, quando chegar no item Clique em "Novo Tex
 - Em texto em destaque, inclua a variavel que terá seu conteúdo apresentado seguindo este padrão: ${DCR-ERRO:30} o 30 é a quantidade máxima de caracteres que serão exibidos;
 - O restante segue normalmente.
 
+<h2> <a name="C5"> 5 - Erro -805 em homologação</ a></h2>
+
+https://fontes.intranet.bb.com.br/iib/publico/integracao-suporte/-/wikis/IIB/Execu%C3%A7%C3%A3o-Local-de-Opera%C3%A7%C3%A3o-CICS
 
 
 
